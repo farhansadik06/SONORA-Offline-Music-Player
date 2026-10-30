@@ -1,7 +1,7 @@
 # SONORA-Offline-Music-Player
 Your music, your way. Play offline songs with a beautiful, powerful and modern music player.
 🎧 **SONORA – Your Music. Your Experience.**
-
+DOWNLOAD NOW: https://github.com/farhansadik06/SONORA-Offline-Music-Player/releases/download/releases/SonoraMusicPlayer.apk
 Meet SONORA, a modern offline music player designed for people who love listening to their own music.
 
 Enjoy your favorite songs directly from your device storage with a beautiful, smooth and easy-to-use interface. No music streaming subscription, no compulsory account and no internet connection required for offline playback.
